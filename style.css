@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+ .formstyle{
+    text-align: center;
+}
+.h1{
+    background-color: aqua;
+    width: 18%;
+    /* text-align: center; */
+}
+
+.formstyle{
+    /* text-align: center !important; */
+   background-image: url(bg.jpg);
+   background-color: #cccccc;
+   height: 100%;
+   width: 18%;
+    
+}
+.result {
+    width: 213px;
+    background-color:aqua;
+    color:black;
+    border-color: #fff;
+}
+
+.clearBtn {
+    width: 213px;
+    margin-top: 10px;
+    background-color: aqua;
+    border-color: #fff;
+}
+
+.btn {
+    background-color: aqua;
+    width: 50px;
+    margin: 1px;
+    border-color: #fff;
+}
+
+.halfBtn {
+    background-color: aqua;
+    width: 50px;
+    margin-top: 5px;
+    border-color: #fff;
+}
